@@ -1,4 +1,18 @@
-## Hi there 👋
+## 👩‍💻 Skills
+
+- Programming Languages: Java, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Frontend: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
+- Concepts: REST APIs, CRUD Operations, OOPs
+
+## 🛠️ Tech Stack
+- 💻 Java | JavaScript
+- 🌐 HTML | CSS
+- 🗄️ MongoDB | MySQL
+- ⚙️ Git | GitHub | VS Code
+
 
 <!--
 **yaminisri-78/yaminisri-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
