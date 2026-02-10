@@ -1,6 +1,6 @@
 ## 👩‍💻 Skills
 
-- Programming Languages: Java, JavaScript
+- Programming Languages: Java, Python, JavaScript
 - Backend: Node.js, Express.js
 - Database: MongoDB, MySQL
 - Frontend: HTML, CSS, JavaScript
@@ -8,7 +8,7 @@
 - Concepts: REST APIs, CRUD Operations, OOPs
 
 ## 🛠️ Tech Stack
-- 💻 Java | JavaScript
+- 💻 Java | Python | JavaScript
 - 🌐 HTML | CSS
 - 🗄️ MongoDB | MySQL
 - ⚙️ Git | GitHub | VS Code
