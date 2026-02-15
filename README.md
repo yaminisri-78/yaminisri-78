@@ -1,7 +1,6 @@
 ## 👩‍💻 Skills
 
 - Programming Languages: Java, Python, JavaScript
-- Backend: Node.js, Express.js
 - Database: MongoDB, MySQL
 - Frontend: HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code
