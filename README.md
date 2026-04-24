@@ -3,15 +3,16 @@ Hi there, I'm Yamini!
 
 - Programming Languages: Java, Python, JavaScript
 - Database: MongoDB, MySQL
-- Frontend: HTML, CSS, JavaScript
-- Tools: Git, GitHub, VS Code
+- Frontend: HTML, CSS, JavaScript, React
+- Testing: Manual Testing, SDLC, STLC, Agile, Waterfall
+- Tools: Git, GitHub, VS Code, Eclipse
 - Concepts: REST APIs, CRUD Operations, OOPs
 
 ## 🛠️ Tech Stack
 - 💻 Java | Python | JavaScript
 - 🌐 HTML | CSS
 - 🗄️ MongoDB | MySQL
-- ⚙️ Git | GitHub | VS Code
+- ⚙️ Git | GitHub | VS Code | Eclipse | Anti Gravity | Cursor | Chat GPT
 
 
 <!--
