@@ -1,3 +1,4 @@
+Hi there, I'm Yamini!
 ## 👩‍💻 Skills
 
 - Programming Languages: Java, Python, JavaScript
